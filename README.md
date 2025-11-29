@@ -5,4 +5,11 @@ used for my thesis experiments based on the ParlAI framework.
 
 The ParlAI framework itself is not included here.  
 Official ParlAI repository: https://github.com/facebookresearch/ParlAI
+
 The dataset I used for evaluation: https://huggingface.co/datasets/AudioLLMs/alpaca_audio_test
+The model I used as baseline: blender_90M
+
+Latency Evaluation Code have 3 parts:
+1. blender_latency.py
+2. asr_latency.py
+3. tts_latency.py 
