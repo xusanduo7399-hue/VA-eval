@@ -13,3 +13,10 @@ Latency Evaluation Code have 3 parts:
 1. blender_latency.py
 2. asr_latency.py
 3. tts_latency.py 
+
+For scripts：
+check_cuda.py
+convert_csv_to_parlai_eval.py.py
+generate_mydata.py
+These scripts extend the functionality of the official ParlAI framework.
+They do not modify ParlAI core files.
