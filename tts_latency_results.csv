@@ -1,0 +1,101 @@
+﻿id,input_text,text_len,tts_latency_sec
+0,i love star wars ! it ' s one of my favorite movies of all time . do you like star wars ?,89,1.7712750434875488
+1,"i don ' t know how to reduce water use , but i do know that water is a source of energy .",89,1.4943974018096924
+2,i ' m a big fan of action and drama movies . do you have a favorite genre of movies ?,85,1.434391736984253
+3,"how do you do that ? i ' m not very good at math , but i know how to do it .",76,1.5238945484161377
+4,i ' m not sure what you mean by that . are you referring to the cat ' s meowing ?,81,1.7627596855163574
+5,i don ' t know how to do that . i ' m not very good at grammer .,64,1.8277668952941895
+6,i ' m not sure what you mean by that . it ' s when the economy is less frictional .,83,1.464714527130127
+7,"i ' m not sure what you mean by visual elements , but i think it ' s important to focus on the visual elements .",112,1.774705171585083
+8,"i ' m not sure what you ' re asking me , but i ' ll tell you something .",72,1.7713258266448975
+9,i ' m not sure what you ' re talking about . it ' s a network that uses a computer ' s memory .,95,1.6598761081695557
+10,i don ' t think i ' ll be able to do that . i ' m scared of heights .,69,1.404059886932373
+11,"i don ' t know about you , but i ' ve never been able to afford to go to school .",81,1.668452501296997
+12,"i ' m not sure , but i know it ' s been a long time since i ' ve had an ecliptic .",82,1.4196925163269043
+13,that ' s a good idea . i ' m not sure i have the patience for that yet .,72,2.0762791633605957
+14,i ' m not sure what you mean by that . what is the word you ' re referring to ?,79,1.7397818565368652
+15,i don ' t know . . . i ' m not sure what to say . i guess i ' ll just have to let it go .,89,1.8478419780731201
+16,1 . don ' t shop online . 2 . save money . 3 . ? ? ? 4 . profit !,65,1.7534129619598389
+17,"wow , that ' s a lot of numbers . do you know how many people have that number ?",80,1.467632532119751
+18,1 . reduce the number of pollutants in the world . 2 . reduce greenhouse gas emissions . 3 . ? ? ? 4 . profit .,111,1.8211085796356201
+19,a nuclear plant is a power plant that is used to power the world ' s largest solar system .,91,1.4339206218719482
+20,i ' m not sure what you mean by that . are you referring to the fact that he had a hat ?,88,1.6190369129180908
+21,i was born in the 90 ' s so i don ' t remember a lot of 90s music .,67,1.4142539501190186
+22,"wow , that ' s a lot of words . i ' m sure you ' re a great writer .",68,1.431769609451294
+23,i ' m not sure i understand what you ' re saying . what do you mean by that ?,77,1.496171474456787
+24,"wow , that ' s a lot of apples . did you buy them fresh or fresh from the store ?",81,1.527179241
+25,i don ' t know how to explain it to you . i ' m not sure what you mean .,72,1.874124526977539
+26,"it ' s when you do something that you don ' t want to do , but you still want to .",82,1.589256763458252
+27,i ' m not sure what you mean by that . are you talking about the difference between the two ?,93,1.7380897998809814
+28,"i ' ve never been to north america , but i know that there are a lot of animals there .",87,1.5524413585662842
+29,that ' s pretty cool . i ' ve never been to a store before . what did you buy ?,79,1.9000158309936523
+30,i ' m not sure what you ' re talking about . do you mean the musical instrument of the same name ?,98,2.446449041366577
+31,"that ' s a good idea , i ' ll try to do that . what do you do for fun ?",71,2.404822587966919
+32,"i ' m not sure of the exact number , but i know it ' s somewhere between 3 and 6 .",82,2.1884257793426514
+33,i have a 7 year old son and he loves to watch horror movies . what movie would you recommend ?,94,2.350414276123047
+34,"i know a lot about software engineering , but i don ' t know much about it . what do you know about it ?",104,2.081300735473633
+35,"i ' m not sure , but i do know that it was based on a novel by stephen king .",77,2.095029592514038
+36,"i ' m not sure , but i do know that there are a lot of different kinds of animals .",83,2.7337210178375244
+37,"i can ' t name 5 things , but i can tell you how to improve the air quality .",77,2.4518373012542725
+38,"i don ' t know much about microwave ' s , but i do know that they ' ve been around for a long time .",100,1.8508944511413574
+39,"i use instagram , facebook , and instagram . i also use facebook , instagram and facebook .",91,2.995377779006958
+40,"i ' m not sure , but i do know that seattle is the most populous city in the united states .",92,2.2236409187316895
+41,that sounds like a lot of work . what are you going to do with the rest of the four days ?,90,2.405560255050659
+42,"i would love to do that , but i don ' t have a lot of time for it .",67,2.236360788345337
+43,"wow , that ' s a lot of money . do you have any idea how much that would cost ?",79,2.075347423553467
+44,"i ' m not sure of the exact numbers , but i know that the us has the highest population of any country in the world .",117,2.527806520462036
+45,that ' s a great idea ! i ' ll have to try that . do you have a favorite topper ?,81,2.1518380641937256
+46,"have you ever seen one in person ? i ' ve never seen it in person , but i ' d like to .",87,2.4968807697296143
+47,i love summer . it ' s the best time of year to go out and enjoy the outdoors .,79,2.876434803009033
+48,"i don ' t know about you , but i ' ve never heard of any of the five types .",76,2.3563783168792725
+49,it ' s just a way to keep my identity secure . i ' m not sure why it matters .,78,1.9883017539978027
+50,i think it ' s important to have a variety of colors in your design . i ' m not sure what you mean by that .,108,1.889554500579834
+51,"i ' m not sure , but i do know that the united states is the most populous country in the world .",97,2.144451141357422
+52,"wow , that ' s a lot of money . how did you manage to save that much money ?",76,2.050039768218994
+53,"i don ' t know about you , but i ' m not a fan of fruits that aren ' t citrus .",79,1.9038217067718506
+54,i ' m not sure what you mean . are you talking about the product 5 or the product 3 ?,85,2.167931079864502
+55,"i ' m not sure what you mean by that , but it ' s because of greenhouse gas emissions .",87,2.363643169403076
+56,i don ' t know . i ' m not sure . maybe it ' s an optical effect ?,66,2.152855634689331
+57,i ' m not sure what you mean . are you referring to the health care system in the united states ?,97,1.9963171482086182
+58,2 . 8 . 0 . 4 . 4 is the highest number of people who have ever been to a concert .,83,2.2805418968200684
+59,"i ' m not sure of the exact date , but i know it started in the 19th century .",78,1.7537455558776855
+60,i ' m not sure what you ' re trying to say . what do you mean by that ?,71,2.646087884902954
+61,that ' s a great idea . i think i ' ll do that . do you have any pets ?,71,2.641308069229126
+62,i do a lot of yoga . it helps a lot . it ' s a great way to relax .,67,2.1874711513519287
+63,what do you mean by that ? i ' m not sure what you ' re talking about . . .,75,2.1256332397460938
+64,that ' s a good one . i think it ' s important to be confident in your abilities .,82,2.068279266357422
+65,"i don ' t have a lot of upper body strength , but i ' m working on it .",71,2.2431392669677734
+66,i don ' t know how to do that . i ' m not sure what i want to do .,66,2.352102279663086
+67,mexican food is one of the most popular foods in the world . i would love to visit there one day .,98,2.272623062133789
+68,"i ' m not sure , but i do know that he was the first to be nominated for a seat in the supreme court .",102,2.2216413021087646
+69,"i ' m not sure i understand what you mean . what do you mean by "" artificial intelligence "" ?",93,2.3247954845428467
+70,i ' m not sure what you mean by that . i can tell you that i remember a lot of things when i was younger .,106,2.147845506668091
+71,do you like apple juice ? it ' s one of the most popular flavors in the world .,79,2.023454189300537
+72,i ' m not sure i understand what you mean . what do you mean by summarise ?,75,2.2430777549743652
+73,"i ' m not sure , but i do know that it ' s a lot faster and more user - friendly .",82,1.6701300144195557
+74,that ' s a good idea . i ' m not sure how to do that . what do you think ?,74,2.2261056900024414
+75,"i don ' t know what that means , but i do know that it ' s a great song .",73,2.179903030395508
+76,spain is the largest country in the world by area . i would love to visit there one day .,89,2.2569031715393066
+77,i don ' t think i ' ve ever used a neural network before . what ' s it like ?,77,7.202199935913086
+78,i ' m not sure . it ' s been a long time since i ' ve been in a relationship .,78,2.050189733505249
+79,"i ' m not sure what you ' re asking , but i can tell you that i love technology !",81,1.9863135814666748
+80,"i ' m not sure how to do that , but i do know that recycling is a great way to reduce waste .",93,3.992400646209717
+81,that ' s a great idea . i ' d love to do something like that . do you have a favorite subject ?,95,2.218177318572998
+82,what do you mean by that ? i ' m not sure what you ' re trying to say .,71,2.1852211952209473
+83,"that ' s a good idea , i ' ll try to do that . what do you like to make ?",73,2.7553470134735107
+84,i ' m not sure what you mean by that . are you referring to the size of the banana ?,84,2.3882532119750977
+85,i love bbq ! it ' s one of the most popular foods in the world . do you like it ?,81,2.6932907104492188
+86,i ' m not sure i understand what you ' re saying . what do you mean by that ?,77,2.556231976
+87,i ' ve never heard of him . what does he have to do with the company he founded ?,81,2.3040974140167236
+88,"wow , that ' s a lot of money . what kind of laptops do you have now ?",70,2.195167064666748
+89,i ' m not sure what you ' re asking . what do you want to know about the phrase ?,81,2.135546922683716
+90,what kind of marketing plan are you talking about ? i ' m not sure what you ' re talking about .,96,2.3112683296203613
+91,"bee is a great word . it ' s a latin word that means "" little bee "" in spanish .",80,2.172098398208618
+92,i ' m not sure what you ' re asking . what do you want to know about examples ?,79,2.354851722717285
+93,"i ' m not sure what you ' re talking about , but i ' ll tell you the third one .",80,1.896740198135376
+94,"what is the meaning of the word "" dog "" ? i ' ve never heard of it before .",75,2.2734320163726807
+95,"i can ' t think of any off the top of my head , but i ' m sure there are .",74,2.208329677581787
+96,"i ' m not sure of the name , but i know it ' s a bird that flies .",66,2.3321585655212402
+97,i ' m not sure what you mean by that . it ' s a network of networks that connect to other networks .,100,2.0504682064056396
+98,that ' s a great idea ! i ' ll have to look into that . do you have any suggestions ?,85,2.5588784217834473
+99,that ' s a great idea ! i ' ll have to look into that . do you have a favorite city ?,85,2.258610725402832
